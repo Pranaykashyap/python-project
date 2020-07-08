@@ -12,7 +12,7 @@ Simple Hybrid Encryption using AES-TDES using Python.
 	
 ## Technologies
 Project is created with:
-* Python -V 3.7.3
+* Python 3.7.3
 	
 ## Setup
 To run this project, install it locally:
