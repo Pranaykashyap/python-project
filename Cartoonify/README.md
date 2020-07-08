@@ -1,5 +1,6 @@
 # Cartoonify using Python OpenCv
 
+Author - Madiraju Pranay Kashyap
 ### 
 
 ## Table of contents
