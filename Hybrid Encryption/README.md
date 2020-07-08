@@ -19,5 +19,6 @@ To run this project, install it locally:
 
 ```
 > cd /python-project
+> pip install -r requirements.txt
 > python hybrid.py
 ```
