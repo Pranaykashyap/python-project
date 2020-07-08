@@ -1,5 +1,6 @@
 # Hybrid Encryption using AES-TDES
 
+##### Author - Madiraju Pranay Kahsyap
 ### 
 
 ## Table of contents
