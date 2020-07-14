@@ -1,6 +1,7 @@
 # Cartoonify using Python OpenCv
 
-##Author - 
+## Author
+
 [Madiraju Pranay Kashyap](https://pranaykashyap.github.io/)
 
 ## Table of contents
@@ -11,7 +12,7 @@
 ## General info
 Simple Python program to Cartoonify the image
 > **Note:** For any kind of suggestion, please mail to [Pranay Kashyap](mailto:pranaykshp@gmail.com) 
-	
+
 ## Technologies
 Project is created with:
 * Python 3.7.3
