@@ -1,7 +1,8 @@
 # Network Scanner using Ping
 
-Author - Madiraju Pranay Kashyap
-### 
+## Author
+
+[Madiraju Pranay Kashyap](https://pranaykashyap.github.io/)
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,6 +11,7 @@ Author - Madiraju Pranay Kashyap
 
 ## General info
 Scanning the network using ping response
+> **Note:** For any kind of suggestion, please mail to [Pranay Kashyap](mailto:pranaykshp@gmail.com) 
 	
 ## Technologies
 Project is created with:
