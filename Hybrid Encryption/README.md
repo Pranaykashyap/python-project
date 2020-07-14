@@ -19,7 +19,7 @@ Project is created with:
 To run this project, install it locally:
 
 ```
-> cd /python-project/Hybrid Encryption
-> pip install -r requirements.txt
-> python hybrid.py
+cd python-project-master\Hybrid Encryption
+pip install -r requirements.txt
+python hybrid.py
 ```

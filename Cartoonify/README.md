@@ -20,7 +20,7 @@ Project is created with:
 To run this project, install it locally:
 
 ```
-> cd /python-project/Cartoonify
-> pip install -r requirements.txt
-> python cartoonify.py
+cd python-project-master\Cartoonify
+pip install -r requirements.txt
+python cartoonify.py
 ```

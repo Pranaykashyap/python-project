@@ -1,12 +1,7 @@
 #!/usr/bin/python3
-try:
-	import os, platform, threading, time, socket
-	from queue import Queue
-except:
-	import pip
-	pip.main(['install', 'os', 'platform', 'time', 'threading', 'queue', 'socket'])
-	import os, platform, threading, time, socket
-	from queue import Queue
+import os, platform, threading, time, socket
+from queue import Queue
+
 hostname = socket.gethostname()    
 ip_address = socket.gethostbyname(hostname)    
 ip_split = ip_address.split('.')

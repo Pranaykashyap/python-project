@@ -19,7 +19,6 @@ Project is created with:
 To run this project, install it locally:
 
 ```
-> cd /python-project/Network Scanner
-> pip install -r requirements.txt
-> python ping_scan_network.py
+cd python-project-master\Network Scanner
+python ping_scan_network.py
 ```
