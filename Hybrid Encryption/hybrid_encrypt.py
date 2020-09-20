@@ -21,8 +21,9 @@ def encrypt(plaintext):
 		file_in.write(tag)    #  16(fixed)
 		file_in.write(ciphertext)	
 		file_in.close()
+		return ciphertext
 
 	except Exception as e:
 		print(e)
 	
-	return ciphertext
+	
