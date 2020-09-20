@@ -10,7 +10,7 @@
 * [Setup](#setup)
 
 ## General info
-Some of the Malicious Scripts like Keylogger will be running at your background without your knowledge. the logged data can be sent in either ways like sending mails or updating their databases. This code tracks the data send from SMTP ports like 25, 587, 465 and notify the user when event occurs.
+Some of the Malicious Scripts like Keylogger will be running background without your knowledge. This logged data can be sent in either ways like mails(smtp) or updating their databases. This code tracks the data send from SMTP ports like 25, 587, 465 and notify the user when event occurs.
 > **Note:** For any kind of suggestion, please mail to [Pranay Kashyap](mailto:pranaykshp@gmail.com) 
 	
 ## Technologies
